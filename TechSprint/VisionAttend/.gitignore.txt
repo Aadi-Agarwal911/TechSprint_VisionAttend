@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/                   # Virtual Environment folder
+.DS_Store               # Mac junk file
+serviceAccountKey.json  
